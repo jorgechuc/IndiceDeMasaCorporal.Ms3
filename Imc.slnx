@@ -1,3 +1,5 @@
 <Solution>
-  <Project Path="Imc.Maui/Imc.Maui.csproj" />
+  <Project Path="D:/dev/repos/tavprog/ms3/IndiceDeMasaCorporal.Ms3/Imc.Console/Imc.Console.csproj" Id="da1178a4-d6d2-49bb-b4b7-cd8f43a91553" />
+  <Project Path="D:/dev/repos/tavprog/ms3/IndiceDeMasaCorporal.Ms3/Imc.Maui/Imc.Maui.csproj" />
+  <Project Path="Imc.Models/Imc.Models.csproj" Id="0dfb1ec8-2261-48b7-9fb6-a41ae8c19826" />
 </Solution>
